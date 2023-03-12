@@ -1,5 +1,11 @@
 # @graphql-codegen/plugin-helpers
 
+## 4.1.1
+
+### Patch Changes
+
+- [`f104619ac`](https://github.com/dotansimha/graphql-code-generator/commit/f104619acd27c9d62a06bc577737500880731087) Thanks [@saihaj](https://github.com/saihaj)! - Resolve issue with nesting fields in `@provides` directive being prevented
+
 ## 4.1.0
 
 ### Minor Changes
